@@ -1,8 +1,9 @@
+import { logger } from '../../../util/logger/logger'
 import { containsDuplicate } from './ArrayHashing/containsDuplicate'
 
 function containsDuplicateTests() {
-  console.log(containsDuplicate([1, 2, 3, 4, 1])) // true
-  console.log(containsDuplicate([1, 2, 3, 4])) // false
+  logger.info(containsDuplicate([1, 2, 3, 4, 1])) // true
+  logger.info(containsDuplicate([1, 2, 3, 4])) // false
 }
 
 export function deepTests() {
