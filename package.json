@@ -1,0 +1,25 @@
+{
+  "name": "DSA-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "prettier": "^2.8.3"
+  },
+  "scripts": {
+    "clean": "rm -rf coverage dist",
+    "lint": "eslint ./src/*.ts",
+    "test": "jest",
+    "build": "tsc",
+    "start": "ts-node src/neetcode/index.ts",
+    "dev": "nodemon --config nodemon.json src/neetcode/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
