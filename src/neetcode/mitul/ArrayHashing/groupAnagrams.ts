@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/group-anagrams/
+
 export function groupAnagrams(strs: string[]) {
   const map:{ [key: string]: string[] } = {}
   strs.forEach((str) => {
