@@ -1,0 +1,752 @@
+[
+    {
+        "Category": "Arrays",
+        "Name": "Contains Duplicate",
+        "Link": "https://leetcode.com/problems/contains-duplicate/"
+    },
+    {
+        "Category": "Arrays",
+        "Name": "Valid Anagram",
+        "Link": "https://leetcode.com/problems/valid-anagram/"
+    },
+    {
+        "Category": "Arrays",
+        "Name": "Two Sum",
+        "Link": "https://leetcode.com/problems/two-sum/"
+    },
+    {
+        "Category": "Arrays",
+        "Name": "Group Anagrams",
+        "Link": "https://leetcode.com/problems/group-anagrams/"
+    },
+    {
+        "Category": "Arrays",
+        "Name": "Top K Frequent Elements",
+        "Link": "https://leetcode.com/problems/top-k-frequent-elements/"
+    },
+    {
+        "Category": "Arrays",
+        "Name": "Product of Array Except Self\t\n",
+        "Link": "https://leetcode.com/problems/product-of-array-except-self/"
+    },
+    {
+        "Category": "Arrays",
+        "Name": "Valid Sudoku",
+        "Link": "https://leetcode.com/problems/valid-sudoku/"
+    },
+    {
+        "Category": "Arrays",
+        "Name": "Encode and Decode Strings",
+        "Link": "https://leetcode.com/accounts/login/?next=/problems/encode-and-decode-strings/"
+    },
+    {
+        "Category": "Graph",
+        "Name": "Longest Consecutive Sequence",
+        "Link": "https://leetcode.com/problems/longest-consecutive-sequence/"
+    },
+    {
+        "Category": "Two Pointers",
+        "Name": "Valid Palindrome",
+        "Link": "https://leetcode.com/problems/valid-palindrome/"
+    },
+    {
+        "Category": "Two Pointers",
+        "Name": "Two Sum II",
+        "Link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+    },
+    {
+        "Category": "Two Pointers",
+        "Name": "3Sum",
+        "Link": "https://leetcode.com/problems/3sum/"
+    },
+    {
+        "Category": "Two Pointers",
+        "Name": "Container with Most Water",
+        "Link": "https://leetcode.com/problems/container-with-most-water/"
+    },
+    {
+        "Category": "Two Pointers",
+        "Name": "Trapping Rain Water",
+        "Link": "https://leetcode.com/problems/trapping-rain-water/"
+    },
+    {
+        "Category": "Sliding Window",
+        "Name": "Best Time to Buy & Sell Stock",
+        "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+    },
+    {
+        "Category": "Sliding Window",
+        "Name": "Longest Substring Without Repeating Characters",
+        "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+    },
+    {
+        "Category": "Sliding Window",
+        "Name": "Longest Repeating Character Replacement",
+        "Link": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+    },
+    {
+        "Category": "Sliding Window",
+        "Name": "Permutation in String",
+        "Link": "https://leetcode.com/problems/permutation-in-string/"
+    },
+    {
+        "Category": "Sliding Window",
+        "Name": "Minimum Window Substring",
+        "Link": "https://leetcode.com/problems/minimum-window-substring/"
+    },
+    {
+        "Category": "Sliding Window",
+        "Name": "Sliding Window Maximum",
+        "Link": "https://leetcode.com/problems/sliding-window-maximum/"
+    },
+    {
+        "Category": "Stack",
+        "Name": "Valid Parentheses",
+        "Link": "https://leetcode.com/problems/valid-parentheses/"
+    },
+    {
+        "Category": "Stack",
+        "Name": "Min Stack",
+        "Link": "https://leetcode.com/problems/min-stack/"
+    },
+    {
+        "Category": "Stack",
+        "Name": "Evaluate Reverse Polish Notation",
+        "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+    },
+    {
+        "Category": "Stack",
+        "Name": "Generate Parentheses",
+        "Link": "https://leetcode.com/problems/generate-parentheses/"
+    },
+    {
+        "Category": "Stack",
+        "Name": "Daily Temperatures",
+        "Link": "https://leetcode.com/problems/daily-temperatures/"
+    },
+    {
+        "Category": "Stack",
+        "Name": "Car Fleet",
+        "Link": "https://leetcode.com/problems/car-fleet/"
+    },
+    {
+        "Category": "Stack",
+        "Name": "Largest Rectangle in Histogram",
+        "Link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+    },
+    {
+        "Category": "Binary Search",
+        "Name": "Binary Search",
+        "Link": "https://leetcode.com/problems/binary-search/"
+    },
+    {
+        "Category": "Binary Search",
+        "Name": "Search a 2D Matrix",
+        "Link": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+        "Category": "Binary Search",
+        "Name": "Koko Eating Bananas",
+        "Link": "https://leetcode.com/problems/koko-eating-bananas/"
+    },
+    {
+        "Category": "Binary Search",
+        "Name": "Search Rotated Sorted Array",
+        "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+    },
+    {
+        "Category": "Binary Search",
+        "Name": "Find Minimum in Rotated Sorted Array",
+        "Link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+    },
+    {
+        "Category": "Binary Search",
+        "Name": "Time Based Key-Value Store",
+        "Link": "https://leetcode.com/problems/time-based-key-value-store/"
+    },
+    {
+        "Category": "Binary Search",
+        "Name": "Find Median of Two Sorted Arrays",
+        "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Reverse Linked List",
+        "Link": "https://leetcode.com/problems/reverse-linked-list/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Merge Two Linked Lists",
+        "Link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Reorder List",
+        "Link": "https://leetcode.com/problems/reorder-list/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Remove Nth Node from End of List",
+        "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Copy List with Random Pointer",
+        "Link": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Add Two Numbers",
+        "Link": "https://leetcode.com/problems/add-two-numbers/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Linked List Cycle",
+        "Link": "https://leetcode.com/problems/linked-list-cycle/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Find the Duplicate Number",
+        "Link": "https://leetcode.com/problems/find-the-duplicate-number/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "LRU Cache",
+        "Link": "https://leetcode.com/problems/lru-cache/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Merge K Sorted Lists",
+        "Link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+    },
+    {
+        "Category": "Linked List",
+        "Name": "Reverse Nodes in K-Group",
+        "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Invert Binary Tree",
+        "Link": "https://leetcode.com/problems/invert-binary-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Maximum Depth of Binary Tree",
+        "Link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Diameter of a Binary Tree",
+        "Link": "https://leetcode.com/problems/diameter-of-binary-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Balanced Binary Tree",
+        "Link": "https://leetcode.com/problems/balanced-binary-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Same Tree",
+        "Link": "https://leetcode.com/problems/same-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Subtree of Another Tree",
+        "Link": "https://leetcode.com/problems/subtree-of-another-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Lowest Common Ancestor of a BST",
+        "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Binary Tree Level Order Traversal",
+        "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Binary Tree Right Side View",
+        "Link": "https://leetcode.com/problems/binary-tree-right-side-view/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Count Good Nodes in a Binary Tree",
+        "Link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Validate Binary Search Tree",
+        "Link": "https://leetcode.com/problems/validate-binary-search-tree/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Kth Smallest Element in a BST",
+        "Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Construct Tree from Preorder and Inorder Traversal",
+        "Link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Binary Tree Max Path Sum",
+        "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+    },
+    {
+        "Category": "Trees",
+        "Name": "Serialize and Deserialize Binary Tree",
+        "Link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+    },
+    {
+        "Category": "Tries",
+        "Name": "Implement Trie",
+        "Link": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+    },
+    {
+        "Category": "Tries",
+        "Name": "Design Add and Search Word Data Structure",
+        "Link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+    },
+    {
+        "Category": "Tries",
+        "Name": "Word Search II",
+        "Link": "https://leetcode.com/problems/word-search-ii/"
+    },
+    {
+        "Category": "Heap / Priority Queue",
+        "Name": "Kth Largest Element in a Stream",
+        "Link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+    },
+    {
+        "Category": "Heap / Priority Queue",
+        "Name": "Last Stone Weight",
+        "Link": "https://leetcode.com/problems/last-stone-weight/"
+    },
+    {
+        "Category": "Heap / Priority Queue",
+        "Name": "K Closest Points to Origin",
+        "Link": "https://leetcode.com/problems/k-closest-points-to-origin/"
+    },
+    {
+        "Category": "Heap / Priority Queue",
+        "Name": "Kth Largest Element in an Array",
+        "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+    },
+    {
+        "Category": "Heap / Priority Queue",
+        "Name": "Task Scheduler",
+        "Link": "https://leetcode.com/problems/task-scheduler/"
+    },
+    {
+        "Category": "Heap / Priority Queue",
+        "Name": "Design Twitter",
+        "Link": "https://leetcode.com/problems/design-twitter/"
+    },
+    {
+        "Category": "Heap / Priority Queue",
+        "Name": "Find Median from Data Stream",
+        "Link": "https://leetcode.com/problems/find-median-from-data-stream/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Subsets",
+        "Link": "https://leetcode.com/problems/subsets/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Combination Sum",
+        "Link": "https://leetcode.com/problems/combination-sum/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Permutations",
+        "Link": "https://leetcode.com/problems/permutations/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Subsets II",
+        "Link": "https://leetcode.com/problems/subsets-ii/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Combination Sum II",
+        "Link": "https://leetcode.com/problems/combination-sum-ii/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Word Search",
+        "Link": "https://leetcode.com/problems/word-search/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Palindrome Partitioning",
+        "Link": "https://leetcode.com/problems/palindrome-partitioning/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "Letter Combinations of a Phone Number",
+        "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+    },
+    {
+        "Category": "Backtracking",
+        "Name": "N-Queens",
+        "Link": "https://leetcode.com/problems/n-queens/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Number of Islands",
+        "Link": "https://leetcode.com/problems/number-of-islands/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Clone Graph",
+        "Link": "https://leetcode.com/problems/clone-graph/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Max Area of Island",
+        "Link": "https://leetcode.com/problems/max-area-of-island/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Pacific Atlantic Waterflow",
+        "Link": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Surrounded Regions",
+        "Link": "https://leetcode.com/problems/surrounded-regions/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Rotting Oranges",
+        "Link": "https://leetcode.com/problems/rotting-oranges/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Walls and Gates",
+        "Link": "https://leetcode.com/problems/walls-and-gates/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Course Schedule",
+        "Link": "https://leetcode.com/problems/course-schedule/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Course Schedule II",
+        "Link": "https://leetcode.com/problems/course-schedule-ii/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Redundant Connection",
+        "Link": "https://leetcode.com/problems/redundant-connection/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Number of Connected Components in Graph",
+        "Link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Graph Valid Tree",
+        "Link": "https://leetcode.com/problems/graph-valid-tree/"
+    },
+    {
+        "Category": "Graphs",
+        "Name": "Word Ladder",
+        "Link": "https://leetcode.com/problems/word-ladder/"
+    },
+    {
+        "Category": "Advanced Graphs",
+        "Name": "Reconstruct Itinerary",
+        "Link": "https://leetcode.com/problems/reconstruct-itinerary/"
+    },
+    {
+        "Category": "Advanced Graphs",
+        "Name": "Min Cost to Connect all Points",
+        "Link": "https://leetcode.com/problems/min-cost-to-connect-all-points/"
+    },
+    {
+        "Category": "Advanced Graphs",
+        "Name": "Network Delay Time",
+        "Link": "https://leetcode.com/problems/network-delay-time/"
+    },
+    {
+        "Category": "Advanced Graphs",
+        "Name": "Swim in Rising Water",
+        "Link": "https://leetcode.com/problems/swim-in-rising-water/"
+    },
+    {
+        "Category": "Advanced Graphs",
+        "Name": "Alien Dictionary",
+        "Link": "https://leetcode.com/problems/alien-dictionary/"
+    },
+    {
+        "Category": "Advanced Graphs",
+        "Name": "Cheapest Flights with K Stops",
+        "Link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Climbing Stairs",
+        "Link": "https://leetcode.com/problems/climbing-stairs/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Min Cost Climbing Stairs",
+        "Link": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "House Robber",
+        "Link": "https://leetcode.com/problems/house-robber/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "House Robber II",
+        "Link": "https://leetcode.com/problems/house-robber-ii/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Longest Palindroming Substring",
+        "Link": "https://leetcode.com/problems/longest-palindromic-substring/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Palindrome Substrings",
+        "Link": "https://leetcode.com/problems/palindromic-substrings/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Decode Ways",
+        "Link": "https://leetcode.com/problems/decode-ways/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Coin Change",
+        "Link": "https://leetcode.com/problems/coin-change/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Maximum Product Subarray",
+        "Link": "https://leetcode.com/problems/maximum-product-subarray/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Word Break",
+        "Link": "https://leetcode.com/problems/word-break/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Longest Increasing Subsequence",
+        "Link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+    },
+    {
+        "Category": "1-D Dynamic Programming",
+        "Name": "Partition Equal Subset Sum",
+        "Link": "https://leetcode.com/problems/partition-equal-subset-sum/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Unique Paths",
+        "Link": "https://leetcode.com/problems/unique-paths/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Longest Common Subsequence",
+        "Link": "https://leetcode.com/problems/longest-common-subsequence/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Best Time to Buy/Sell Stock With Cooldown",
+        "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Coin Change II",
+        "Link": "https://leetcode.com/problems/coin-change-2/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Target SUm",
+        "Link": "https://leetcode.com/problems/target-sum/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Interleaving String",
+        "Link": "https://leetcode.com/problems/interleaving-string/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Longest Increasing Path in a Matrix",
+        "Link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Distinct Subsequences",
+        "Link": "https://leetcode.com/problems/distinct-subsequences/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Edit Distance",
+        "Link": "https://leetcode.com/problems/edit-distance/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Burst Balloons",
+        "Link": "https://leetcode.com/problems/burst-balloons/"
+    },
+    {
+        "Category": "2-D Dynamic Programming",
+        "Name": "Regular Expression Matching",
+        "Link": "https://leetcode.com/problems/regular-expression-matching/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Maximum Subarray",
+        "Link": "https://leetcode.com/problems/maximum-subarray/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Jump Game",
+        "Link": "https://leetcode.com/problems/jump-game/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Jump Game II",
+        "Link": "https://leetcode.com/problems/jump-game-ii/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Gas Station",
+        "Link": "https://leetcode.com/problems/gas-station/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Hand of Straights",
+        "Link": "https://leetcode.com/problems/hand-of-straights/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Merge Triplets to Form Target Triplet",
+        "Link": "https://leetcode.com/problems/merge-triplets-to-form-target-triplet/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Partition Labels",
+        "Link": "https://leetcode.com/problems/partition-labels/"
+    },
+    {
+        "Category": "Greedy",
+        "Name": "Valid Parenthesis String",
+        "Link": "https://leetcode.com/problems/valid-parenthesis-string/"
+    },
+    {
+        "Category": "Intervals",
+        "Name": "Insert Interval",
+        "Link": "https://leetcode.com/problems/insert-interval/"
+    },
+    {
+        "Category": "Intervals",
+        "Name": "Merge Intervals",
+        "Link": "https://leetcode.com/problems/merge-intervals/"
+    },
+    {
+        "Category": "Intervals",
+        "Name": "Non-Overlapping Intervals",
+        "Link": "https://leetcode.com/problems/non-overlapping-intervals/"
+    },
+    {
+        "Category": "Intervals",
+        "Name": "Meeting Rooms",
+        "Link": "https://leetcode.com/problems/meeting-rooms/"
+    },
+    {
+        "Category": "Intervals",
+        "Name": "Meeting Rooms II",
+        "Link": "https://leetcode.com/problems/meeting-rooms-ii/"
+    },
+    {
+        "Category": "Intervals",
+        "Name": "Minimum Interval to Include Each Query",
+        "Link": "https://leetcode.com/problems/minimum-interval-to-include-each-query/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Rotate Image",
+        "Link": "https://leetcode.com/problems/rotate-image/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Spiral Matrix",
+        "Link": "https://leetcode.com/problems/spiral-matrix/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Set Matrix Zeroes",
+        "Link": "https://leetcode.com/problems/set-matrix-zeroes/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Happy Number",
+        "Link": "https://leetcode.com/problems/happy-number/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Plus One",
+        "Link": "https://leetcode.com/problems/plus-one/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Pow(x, n)",
+        "Link": "https://leetcode.com/problems/powx-n/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Multiply Strings",
+        "Link": "https://leetcode.com/problems/multiply-strings/"
+    },
+    {
+        "Category": "Math & Geometry",
+        "Name": "Detect Squares",
+        "Link": "https://leetcode.com/problems/detect-squares/"
+    },
+    {
+        "Category": "Bit Manipulation",
+        "Name": "Single Number",
+        "Link": "https://leetcode.com/problems/single-number/"
+    },
+    {
+        "Category": "Bit Manipulation",
+        "Name": "Number of 1 Bits",
+        "Link": "https://leetcode.com/problems/number-of-1-bits/"
+    },
+    {
+        "Category": "Bit Manipulation",
+        "Name": "Counting Bits",
+        "Link": "https://leetcode.com/problems/counting-bits/"
+    },
+    {
+        "Category": "Bit Manipulation",
+        "Name": "Reverse Bits",
+        "Link": "https://leetcode.com/problems/reverse-bits/"
+    },
+    {
+        "Category": "Bit Manipulation",
+        "Name": "Missing Number",
+        "Link": "https://leetcode.com/problems/missing-number/"
+    },
+    {
+        "Category": "Bit Manipulation",
+        "Name": "Sum of Two Integers",
+        "Link": "https://leetcode.com/problems/sum-of-two-integers/"
+    },
+    {
+        "Category": "Bit Manipulation",
+        "Name": "Reverse Integer",
+        "Link": "https://leetcode.com/problems/reverse-integer/"
+    }
+]
