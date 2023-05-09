@@ -2,7 +2,8 @@
     {
         "Category": "Arrays",
         "Name": "Contains Duplicate",
-        "Link": "https://leetcode.com/problems/contains-duplicate/"
+        "Link": "https://leetcode.com/problems/contains-duplicate/",
+        "IsCompleted": true
     },
     {
         "Category": "Arrays",
