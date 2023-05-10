@@ -10,15 +10,18 @@
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
+    "husky": "^8.0.3",
     "prettier": "^2.8.3"
   },
   "scripts": {
+    "prepare": "husky install",
     "clean": "rm -rf coverage dist",
     "lint": "eslint ./src/*.ts",
     "test": "jest",
     "build": "tsc",
     "start": "ts-node src/neetcode/index.ts",
-    "dev": "nodemon --config nodemon.json src/neetcode/index.ts"
+    "dev": "nodemon --config nodemon.json src/neetcode/index.ts",
+    "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\""
   },
   "keywords": [],
   "author": "",
