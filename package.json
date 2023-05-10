@@ -6,35 +6,22 @@
   "dependencies": {
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
     "winston": "^3.8.2"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
     "eslint": "^8.40.0",
-    "husky": "^8.0.3",
-    "lint-staged": "^13.2.2",
     "prettier": "^2.8.8"
   },
   "scripts": {
-    "prepare": "husky install",
     "clean": "rm -rf coverage dist",
     "lint": "eslint ./src/*.ts",
     "test": "jest",
     "build": "tsc",
     "start": "ts-node src/neetcode/index.ts",
     "dev": "nodemon --config nodemon.json src/neetcode/index.ts",
-    "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\" --lint-staged"
-  },
-  "lint-staged": {
-    "**/*.{js,jsx,json}": [
-      "eslint . --fix",
-      "prettier --write ."
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
+    "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\""
   },
   "keywords": [],
   "author": "",
