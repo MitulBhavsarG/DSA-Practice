@@ -8,12 +8,14 @@
   {
     "Category": "Arrays",
     "Name": "Valid Anagram",
-    "Link": "https://leetcode.com/problems/valid-anagram/"
+    "Link": "https://leetcode.com/problems/valid-anagram/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
     "Name": "Two Sum",
-    "Link": "https://leetcode.com/problems/two-sum/"
+    "Link": "https://leetcode.com/problems/two-sum/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
