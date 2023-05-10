@@ -1,3 +1,3 @@
-import { arrayTests } from "./tests/arrays";
+import { arrayTests } from './tests/arrays'
 
 arrayTests()

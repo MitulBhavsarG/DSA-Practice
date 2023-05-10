@@ -10,8 +10,10 @@
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
+    "eslint": "^8.40.0",
     "husky": "^8.0.3",
-    "prettier": "^2.8.3"
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8"
   },
   "scripts": {
     "prepare": "husky install",
@@ -22,6 +24,17 @@
     "start": "ts-node src/neetcode/index.ts",
     "dev": "nodemon --config nodemon.json src/neetcode/index.ts",
     "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\""
+  },
+  "lint-staged": {
+    "**/*.{js,jsx,json}": [
+      "eslint . --fix",
+      "prettier --write ."
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   },
   "keywords": [],
   "author": "",

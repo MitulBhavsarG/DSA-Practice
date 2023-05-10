@@ -9,4 +9,4 @@ export function groupAnagrams(strs: string[]) {
   });
 
   return Object.values(map)
-};
+}
