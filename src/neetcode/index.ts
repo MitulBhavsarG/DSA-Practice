@@ -1,5 +1,5 @@
-import { deepTests } from './deep'
-import { mitulTests } from './mitul'
+import { arrayTests } from './tests/arrays'
+import { slidingWindowTests } from './tests/slidingWindow'
 
-// deepTests()
-mitulTests()
+// arrayTests()
+slidingWindowTests()

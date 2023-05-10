@@ -5,11 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
     "winston": "^3.8.2"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
-    "prettier": "^2.8.3"
+    "eslint": "^8.40.0",
+    "prettier": "^2.8.8"
   },
   "scripts": {
     "clean": "rm -rf coverage dist",
@@ -17,7 +20,8 @@
     "test": "jest",
     "build": "tsc",
     "start": "ts-node src/neetcode/index.ts",
-    "dev": "nodemon --config nodemon.json src/neetcode/index.ts"
+    "dev": "nodemon --config nodemon.json src/neetcode/index.ts",
+    "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\""
   },
   "keywords": [],
   "author": "",
