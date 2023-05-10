@@ -23,7 +23,7 @@
     "build": "tsc",
     "start": "ts-node src/neetcode/index.ts",
     "dev": "nodemon --config nodemon.json src/neetcode/index.ts",
-    "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\""
+    "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\" --lint-staged"
   },
   "lint-staged": {
     "**/*.{js,jsx,json}": [
