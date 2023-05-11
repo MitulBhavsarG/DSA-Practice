@@ -20,22 +20,26 @@
   {
     "Category": "Arrays",
     "Name": "Group Anagrams",
-    "Link": "https://leetcode.com/problems/group-anagrams/"
+    "Link": "https://leetcode.com/problems/group-anagrams/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
     "Name": "Top K Frequent Elements",
-    "Link": "https://leetcode.com/problems/top-k-frequent-elements/"
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
-    "Name": "Product of Array Except Self\t\n",
-    "Link": "https://leetcode.com/problems/product-of-array-except-self/"
+    "Name": "Product of Array Except Self",
+    "Link": "https://leetcode.com/problems/product-of-array-except-self/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
     "Name": "Valid Sudoku",
-    "Link": "https://leetcode.com/problems/valid-sudoku/"
+    "Link": "https://leetcode.com/problems/valid-sudoku/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
