@@ -4,6 +4,7 @@ import { isAnagram } from '../solutions/arrays/isAnagram'
 import { twoSum } from '../solutions/arrays/twoSum'
 import { productExceptSelf } from '../solutions/arrays/productExceptSelf'
 import { isValidSudoku } from '../solutions/arrays/isValidSudoku'
+import { longestConsecutive } from '../solutions/arrays/longestConsecutive'
 
 export const containsDuplicateTests = () => {
   logger.info(containsDuplicate([1, 2, 3, 1]))
@@ -54,10 +55,19 @@ export const isValidSudokuTests = () => {
     ]),
   )
 }
+
+export const longestConsecutiveTests = () => {
+  logger.info(longestConsecutive([100, 4, 200, 1, 3, 2]))
+  logger.info(longestConsecutive([0, 3, 7, 2, 5, 8, 4, 6, 0, 1]))
+  logger.info(longestConsecutive([]))
+  logger.info(longestConsecutive([0]))
+}
+
 export const arrayTests = () => {
   // containsDuplicateTests()
   // isAnagramTests()
   // twoSumTests()
   // productExceptSelfTests()
-  isValidSudokuTests()
+  // isValidSudokuTests()
+  longestConsecutiveTests()
 }
