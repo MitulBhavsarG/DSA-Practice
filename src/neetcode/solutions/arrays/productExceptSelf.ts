@@ -1,27 +1,27 @@
 // https://leetcode.com/problems/product-of-array-except-self/
-
 export function productExceptSelf(nums: number[]): number[] {
-  const forward: number[] = []
-  let backward: number[] = []
+  let prefix: number[] = [],
+    postfix: number[] = []
 
   for (let i = 0; i < nums.length; i++) {
-    if (forward.length === 0) forward.push(nums[i])
-    else forward.push(forward[forward.length - 1] * nums[i])
+    const prev = prefix[i - 1] === undefined ? 1 : prefix[i - 1]
+    prefix.push(prev * nums[i])
   }
 
-  for (let i = nums.length - 1; i >= 0; i--) {
-    if (backward.length === 0) backward.push(nums[i])
-    else backward.push(backward[backward.length - 1] * nums[i])
+  for (let i = nums.length - 1, j = 0; i >= 0; i--, j++) {
+    const prev = postfix[j - 1] === undefined ? 1 : postfix[j - 1]
+    postfix.push(nums[i] * prev)
   }
-  backward = backward.reverse()
 
-  const ret: number[] = []
+  postfix = postfix.reverse()
+
+  const output: number[] = []
   for (let i = 0; i < nums.length; i++) {
-    if (i === 0) ret.push(backward[i + 1])
-    else if (i === nums.length - 1) ret.push(forward[i - 1])
-    else {
-      ret.push(forward[i - 1] * backward[i + 1])
-    }
+    const prefixMultiplicationValue =
+      prefix[i - 1] === undefined ? 1 : prefix[i - 1]
+    const postfixMultiplicationValue =
+      postfix[i + 1] === undefined ? 1 : postfix[i + 1]
+    output.push(prefixMultiplicationValue * postfixMultiplicationValue)
   }
-  return ret
+  return output
 }

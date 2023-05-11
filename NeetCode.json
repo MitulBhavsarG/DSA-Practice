@@ -8,32 +8,38 @@
   {
     "Category": "Arrays",
     "Name": "Valid Anagram",
-    "Link": "https://leetcode.com/problems/valid-anagram/"
+    "Link": "https://leetcode.com/problems/valid-anagram/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
     "Name": "Two Sum",
-    "Link": "https://leetcode.com/problems/two-sum/"
+    "Link": "https://leetcode.com/problems/two-sum/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
     "Name": "Group Anagrams",
-    "Link": "https://leetcode.com/problems/group-anagrams/"
+    "Link": "https://leetcode.com/problems/group-anagrams/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
     "Name": "Top K Frequent Elements",
-    "Link": "https://leetcode.com/problems/top-k-frequent-elements/"
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
-    "Name": "Product of Array Except Self\t\n",
-    "Link": "https://leetcode.com/problems/product-of-array-except-self/"
+    "Name": "Product of Array Except Self",
+    "Link": "https://leetcode.com/problems/product-of-array-except-self/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
     "Name": "Valid Sudoku",
-    "Link": "https://leetcode.com/problems/valid-sudoku/"
+    "Link": "https://leetcode.com/problems/valid-sudoku/",
+    "IsCompleted": true
   },
   {
     "Category": "Arrays",
@@ -43,7 +49,8 @@
   {
     "Category": "Graph",
     "Name": "Longest Consecutive Sequence",
-    "Link": "https://leetcode.com/problems/longest-consecutive-sequence/"
+    "Link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "IsCompleted": true
   },
   {
     "Category": "Two Pointers",
