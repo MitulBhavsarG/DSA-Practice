@@ -55,12 +55,14 @@
   {
     "Category": "Two Pointers",
     "Name": "Valid Palindrome",
-    "Link": "https://leetcode.com/problems/valid-palindrome/"
+    "Link": "https://leetcode.com/problems/valid-palindrome/",
+    "IsCompleted": true
   },
   {
     "Category": "Two Pointers",
     "Name": "Two Sum II",
-    "Link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+    "Link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "IsCompleted": true
   },
   {
     "Category": "Two Pointers",
