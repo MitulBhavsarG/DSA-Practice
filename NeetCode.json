@@ -67,7 +67,8 @@
   {
     "Category": "Two Pointers",
     "Name": "3Sum",
-    "Link": "https://leetcode.com/problems/3sum/"
+    "Link": "https://leetcode.com/problems/3sum/",
+    "IsCompleted": true
   },
   {
     "Category": "Two Pointers",

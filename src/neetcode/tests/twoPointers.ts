@@ -2,6 +2,7 @@ import { containsDuplicate } from '../solutions/arrays/containsDuplicate'
 import { logger } from '../../../util/logger'
 import { isPalindrome } from '../solutions/twoPointers/validPalindrome'
 import { twoSum } from '../solutions/twoPointers/twoSum'
+import { threeSum } from '../solutions/twoPointers/threeSum'
 
 export const twoSumTests = () => {
   // logger.info(twoSum([2, 7, 11, 15], 9))
@@ -13,6 +14,13 @@ export const twoSumTests = () => {
   // logger.info(twoSum([1, 2, 2, 2, 2, 2, 2, 2, 3, 4, 5], 5))
 }
 
+export const threeSumTests = () => {
+  logger.info(JSON.stringify(threeSum([-1, 0, 1, 2, -1, -4])))
+  logger.info(JSON.stringify(threeSum([0, 1, 1])))
+  logger.info(JSON.stringify(threeSum([0, 0, 0])))
+}
+
 export const twoPointersTests = () => {
-  twoSumTests()
+  // twoSumTests()
+  threeSumTests()
 }
