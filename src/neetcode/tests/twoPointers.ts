@@ -4,6 +4,7 @@ import { isPalindrome } from '../solutions/twoPointers/validPalindrome'
 import { twoSum } from '../solutions/twoPointers/twoSum'
 import { threeSum } from '../solutions/twoPointers/threeSum'
 import { maxArea } from '../solutions/twoPointers/maxArea'
+import { trap } from '../solutions/twoPointers/trap'
 
 export const twoSumTests = () => {
   logger.info(twoSum([2, 7, 11, 15], 9))
@@ -26,8 +27,14 @@ export const maxAreaTests = () => {
   logger.info(JSON.stringify(maxArea([1, 1])))
 }
 
+export const trapTests = () => {
+  logger.info(JSON.stringify(trap([0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]))) // 6
+  logger.info(JSON.stringify(trap([4, 2, 0, 3, 2, 5]))) // 9
+}
+
 export const twoPointersTests = () => {
   // twoSumTests()
   // threeSumTests()
-  maxAreaTests()
+  // maxAreaTests()
+  trapTests()
 }

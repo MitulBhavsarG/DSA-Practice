@@ -1,7 +1,4 @@
-function getKey(nums: number[], i: number, j: number, k: number) {
-  return `${nums[i]}.${nums[j]}.${nums[k]}`
-}
-
+// https://leetcode.com/problems/3sum/
 export function threeSum(nums: number[]): number[][] {
   const res: number[][] = []
   nums = nums.sort((a, b) => a - b)
