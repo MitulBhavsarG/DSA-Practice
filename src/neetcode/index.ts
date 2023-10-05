@@ -1,5 +1,5 @@
-import { arrayTests } from './tests/arrays'
-import { slidingWindowTests } from './tests/slidingWindow'
+import { arrayTests } from './mitul/tests/arrays'
+import { slidingWindowTests } from './mitul/tests/slidingWindow'
 
 arrayTests()
-// slidingWindowTests()
+slidingWindowTests()

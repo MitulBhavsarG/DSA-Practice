@@ -1,10 +1,10 @@
-import { containsDuplicate } from '../solutions/arrays/containsDuplicate'
-import { logger } from '../../../util/logger'
-import { isAnagram } from '../solutions/arrays/isAnagram'
-import { twoSum } from '../solutions/arrays/twoSum'
-import { productExceptSelf } from '../solutions/arrays/productExceptSelf'
-import { isValidSudoku } from '../solutions/arrays/isValidSudoku'
-import { longestConsecutive } from '../solutions/arrays/longestConsecutive'
+import { containsDuplicate } from '../../mitul/arrays/containsDuplicate'
+import { logger } from '../../../../util/logger'
+import { isAnagram } from '../../mitul/arrays/isAnagram'
+import { twoSum } from '../../mitul/arrays/twoSum'
+import { productExceptSelf } from '../../mitul/arrays/productExceptSelf'
+import { isValidSudoku } from '../../mitul/arrays/isValidSudoku'
+import { longestConsecutive } from '../../mitul/arrays/longestConsecutive'
 
 export const containsDuplicateTests = () => {
   logger.info(containsDuplicate([1, 2, 3, 1]))
@@ -64,10 +64,10 @@ export const longestConsecutiveTests = () => {
 }
 
 export const arrayTests = () => {
-  // containsDuplicateTests()
-  // isAnagramTests()
-  // twoSumTests()
-  // productExceptSelfTests()
-  // isValidSudokuTests()
+  containsDuplicateTests()
+  isAnagramTests()
+  twoSumTests()
+  productExceptSelfTests()
+  isValidSudokuTests()
   longestConsecutiveTests()
 }
