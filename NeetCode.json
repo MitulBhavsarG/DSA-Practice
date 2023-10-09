@@ -79,7 +79,8 @@
   {
     "Category": "Two Pointers",
     "Name": "Trapping Rain Water",
-    "Link": "https://leetcode.com/problems/trapping-rain-water/"
+    "Link": "https://leetcode.com/problems/trapping-rain-water/",
+    "IsCompleted": true
   },
   {
     "Category": "Sliding Window",
