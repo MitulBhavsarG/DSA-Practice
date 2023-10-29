@@ -16,11 +16,11 @@
   },
   "scripts": {
     "clean": "rm -rf coverage dist",
-    "lint": "eslint ./src/*.ts",
+    "lint": "eslint ./*.ts",
     "test": "jest",
     "build": "tsc",
-    "start": "ts-node src/neetcode/index.ts",
-    "dev": "nodemon --config nodemon.json src/neetcode/index.ts",
+    "start": "ts-node index.ts",
+    "dev": "nodemon --config nodemon.json index.ts",
     "pretty": "prettier --write \"./**/*.{js,jsx,ts,tsx,json}\""
   },
   "keywords": [],
