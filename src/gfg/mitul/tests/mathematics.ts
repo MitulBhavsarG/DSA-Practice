@@ -14,7 +14,7 @@ import {
   primeFactors3,
   primeFactors4,
 } from '../mathematics/primeFactors'
-import { sieveOfEratosthenes1 } from '../mathematics/sieveOfEratosthenes'
+import { sieveOfEratosthenes1, sieveOfEratosthenes2 } from '../mathematics/sieveOfEratosthenes'
 import {
   trailingZeroInFactorial,
   trailingZeroInFactorialWithCount5,
@@ -114,7 +114,13 @@ export const divisorsTests = () => {
 }
 
 export const sieveOfEratosthenes1Tests = () => {
-  logger.info(sieveOfEratosthenes1(50)) // 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47
+  sieveOfEratosthenes1(10) // 2, 3, 5, 7
+  sieveOfEratosthenes1(20) // 2, 3, 5, 7, 11, 13, 17, 19
+  sieveOfEratosthenes1(50) // 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47
+
+  sieveOfEratosthenes2(10) // 2, 3, 5, 7
+  sieveOfEratosthenes2(20) // 2, 3, 5, 7, 11, 13, 17, 19
+  sieveOfEratosthenes2(50) // 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47
 }
 
 export const computingPowerTests = () => {
@@ -149,5 +155,5 @@ export const mathematicsTests = () => {
   // divisorsTests()
   // sieveOfEratosthenes1Tests()
   // computingPowerTests()
-  iterativePowerPowerTests()
+  // iterativePowerPowerTests()
 }
